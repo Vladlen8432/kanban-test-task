@@ -1,7 +1,6 @@
 import "./App.css";
 import Issues from "./components/Issues";
-import 'bootstrap/dist/css/bootstrap.min.css';
-
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
   return (
